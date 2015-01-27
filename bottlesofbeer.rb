@@ -1,4 +1,4 @@
-bottles_of_beer = 5
+bottles_of_beer = 99
   while bottles_of_beer !=1
     puts "#{bottles_of_beer} bottles of beer on the wall."
     puts "#{bottles_of_beer} bottles of beer." 
