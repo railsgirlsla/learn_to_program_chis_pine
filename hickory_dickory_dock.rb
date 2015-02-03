@@ -1,15 +1,7 @@
-class Clock
+print "Pick a number from 1 to 12. >> "
+time = gets.chomp.to_i
+puts one
 
-def initialize
- one
-two
-end
-
-#print "Pick a number from 1 to 12. >> "
-#time = gets.chomp.to_i
-#puts one
-
-def one
 if time == 1
 puts "Cuckoo, cuckcoo. You chose #{time}."
 puts """
@@ -19,10 +11,7 @@ The clock struck #{time.to_s},
 The mouse ran down,
 Hickory dickory dock.
 """
-end
-end
 
-def two
 if time == 2
 puts "Cuckoo, cuckcoo. You chose #{time}."
 puts """
@@ -32,8 +21,6 @@ The clock struck two,
 Away she flew,
 Hickory Dickory Dock.
 """
-end
-end
 
 if time ==3
 puts "Cuckoo, cuckcoo. You chose #{time}."
@@ -132,11 +119,3 @@ The clock struck noon,
 He\'s here too soon!
 Hickory Dickory Dock.
 """
-end
-end
-
-Clock.new.one
-Clock.new.two
-omp.to_i
-print "Pick a number from 1 to 12. >> "
-Clock.new
