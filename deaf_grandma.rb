@@ -1,3 +1,4 @@
+puts "HELLO, IS SOMEBODY THERE? "
 year = rand(1930..1950)
 message = gets.chomp #Say something to grandma.
 bye_counter = 0
@@ -10,7 +11,7 @@ bye_counter = 0
     end
 message = gets.chomp
 year = rand(1930..1950)
-    if message = 'BYE'
+    if message == 'BYE'
       bye_counter = bye_counter + 1
     else bye_counter = 0
     end
