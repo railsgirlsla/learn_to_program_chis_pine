@@ -1,7 +1,7 @@
 # learn_to_program_chis_pine
 Documents related to exercises in Chris Pine's tutorial Learn to Program
 
-This is where we can put all of our programs that we make while studying Chris Pine's Learn to Program Book. testtestest
+This is where we can put all of our programs that we make while studying Chris Pine's Learn to Program Book.
 
 Challenges to solidify your new skills
 
