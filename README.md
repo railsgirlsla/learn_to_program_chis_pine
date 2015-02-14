@@ -13,3 +13,6 @@ Challenges to solidify your new skills
 
 ## Challenge 3
 [https://gist.github.com/jendiamond/92c808c3d9d8e1513dea](https://gist.github.com/jendiamond/92c808c3d9d8e1513dea)
+
+## Challenge 4
+[https://gist.github.com/jendiamond/a2f2d240aa94d38657c6](https://gist.github.com/jendiamond/a2f2d240aa94d38657c6)
